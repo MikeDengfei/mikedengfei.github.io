@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Gradute student in<br>
-School of Computer<br>
-National University of Denfence Technology
+Gradute student in School of Computer National University of Denfence Technology
 
 About Me
 ======
