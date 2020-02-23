@@ -8,14 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-
-Gradute student in
-School of Computer
+Gradute student in<br>
+School of Computer<br>
 National University of Denfence Technology
 
 About Me
 ======
-Graduated from Sun Yat-sen University, currently I'm a graduate student at [School of Computer](https://www.nudt.edu.cn/xysz/index.htm) in [National University of Denfence Technology](https://www.nudt.edu.cn/). 
+Graduated from Sun Yat-sen University, currently I'm a graduate student at [School of Computer](https://www.nudt.edu.cn/xysz/index.htm) in [National University of Denfence Technology](https://www.nudt.edu.cn/). <br>
 I major in High Performance Computing and Parallel Computing. 
 
 
@@ -32,5 +31,5 @@ Publication
 {% include base_path %}
 
 <ul>{% for post in site.publications reversed %}
-{% include archive-single-cv.html %}
+{% include archive-single.html %}
 {% endfor %}</ul>
