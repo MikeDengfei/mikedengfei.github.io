@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ma Donghui"
+title                    : "Donghui Ma"
 title_separator          : "-"
-name                     : &name "Ma Donghui"
+name                     : &name "Donghui Ma"
 description              : &description "Graduate student at National University of Denfence Technology"
 url                      : https://mikedengfei.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
